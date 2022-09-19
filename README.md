@@ -8,4 +8,4 @@ This was a project from Codecademy which altered the way the project was to be c
  - [x] CSS
 
 ## Completed Project Link:
-https://devart1st.github.io/WebDev-Cheatsheet-by-Isaiah/#css-content
+https://devart1st.github.io/WebDev-Cheatsheet-by-Isaiah/
